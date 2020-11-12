@@ -29,6 +29,8 @@
         }
       }
     },
-    "iconBrandColor": "#ff7f50"
+    "iconBrandColor": "#ff7f50",
+    "publisher": "Hammock corporation",
+    "stackOwner": "Hammock corporation"
   }
 }
